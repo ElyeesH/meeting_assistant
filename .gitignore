@@ -1,0 +1,20 @@
+# .gitignore
+
+# Python compilation files
+__pycache__/
+*.pyc
+
+# Environment variables (SECRETS - NEVER COMMIT THESE)
+.env
+.env.local
+
+# Virtual environments
+venv/
+env/
+
+# IDE settings (optional but recommended)
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
