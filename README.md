@@ -1,4 +1,4 @@
-# Meeting Assistant Generator 🎙️
+# Meeting Assistant & Reporter 🎙️
 
 A full-stack AI application that transforms raw meeting audio into structured, professional reports.
 
